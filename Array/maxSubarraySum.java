@@ -1,3 +1,6 @@
+//Apna college:
+//Time complexity: O(n)
+//Space compexity: O(1)
 public class maxSubarraySum {
     public static void kadanes(int number[]) {
         int ms = Integer.MIN_VALUE;
