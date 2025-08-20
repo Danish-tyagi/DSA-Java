@@ -15,7 +15,7 @@ DSA-Java/ ├── Arrays/ ├── Strings/ ├── Recursion/ ├── So
 ## ✅ Topics Covered Progress
 
 - [X] Arrays
-- [ ] Strings
+- [X] Strings
 - [ ] Recursion
 - [ ] Sorting
 - [ ] Searching
